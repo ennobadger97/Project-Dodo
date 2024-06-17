@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Factory method pattern\LowerLevel.cs" />
+    <Compile Include="Factory method pattern\MiddleLevel.cs" />
+    <Compile Include="Factory method pattern\TicketType.cs" />
+    <Compile Include="Factory method pattern\UpperLevel.cs" />
+    <Compile Include="Factory method pattern\Vip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
